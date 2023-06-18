@@ -4,6 +4,7 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Configuration;
 
 namespace dbKiller
 {
@@ -19,8 +20,8 @@ namespace dbKiller
                 sqlConnectionStringBuilder.UserID = user;
                 sqlConnectionStringBuilder.Password = pass;
             }
-            sqlConnectionStringBuilder.DataSource = "localhost";
-            sqlConnectionStringBuilder.InitialCatalog = "Construct_database";
+            sqlConnectionStringBuilder.DataSource = ConfigurationSettings.AppSettings["DataSource"];//"localhost";
+            sqlConnectionStringBuilder.InitialCatalog = ConfigurationSettings.AppSettings["InitialCatalog"];//"Construct_database";
             sqlConnectionStringBuilder.Encrypt = true;
             sqlConnectionStringBuilder.TrustServerCertificate = true;
             sqlConnectionStringBuilder.PersistSecurityInfo = false;
