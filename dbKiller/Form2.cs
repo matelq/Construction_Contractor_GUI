@@ -9,8 +9,8 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement.Button;
+//using System.Windows.Forms.VisualStyles.VisualStyleElement;
+//using System.Windows.Forms.VisualStyles.VisualStyleElement.Button;
 
 namespace dbKiller
 {
@@ -100,6 +100,10 @@ namespace dbKiller
                 comboBox4.DataSource = dataTableFullWorkType;
                 comboBox4.DisplayMember = "ID типа работ";
                 comboBox4.ValueMember = "ID типа работ";
+                for (int i = 0; i < dataGridView3.ColumnCount; i++)
+                {
+                    dataGridView3.Columns[i].ReadOnly = true;
+                }
             }
             catch (Exception ex)
             {

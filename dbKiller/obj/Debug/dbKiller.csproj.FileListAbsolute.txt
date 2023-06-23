@@ -12,3 +12,15 @@ D:\Visual Studio 22 projects\databaseKiller\dbKiller\dbKiller\obj\Debug\dbKiller
 D:\Visual Studio 22 projects\databaseKiller\dbKiller\dbKiller\obj\Debug\dbKiller.Form2.resources
 D:\Visual Studio 22 projects\databaseKiller\dbKiller\dbKiller\obj\Debug\dbKiller.Form3.resources
 D:\Visual Studio 22 projects\databaseKiller\dbKiller\dbKiller\obj\Debug\dbKiller.Form4.resources
+C:\Users\vav\Desktop\bdKilllll\kursach\CSharp-forms-with-sql\dbKiller\bin\Debug\dbKiller.exe.config
+C:\Users\vav\Desktop\bdKilllll\kursach\CSharp-forms-with-sql\dbKiller\obj\Debug\dbKiller.exe
+C:\Users\vav\Desktop\bdKilllll\kursach\CSharp-forms-with-sql\dbKiller\obj\Debug\dbKiller.pdb
+C:\Users\vav\Desktop\bdKilllll\kursach\CSharp-forms-with-sql\dbKiller\obj\Debug\dbKiller.csprojResolveAssemblyReference.cache
+C:\Users\vav\Desktop\bdKilllll\kursach\CSharp-forms-with-sql\dbKiller\obj\Debug\dbKiller.Form1.resources
+C:\Users\vav\Desktop\bdKilllll\kursach\CSharp-forms-with-sql\dbKiller\obj\Debug\dbKiller.Form2.resources
+C:\Users\vav\Desktop\bdKilllll\kursach\CSharp-forms-with-sql\dbKiller\obj\Debug\dbKiller.Form3.resources
+C:\Users\vav\Desktop\bdKilllll\kursach\CSharp-forms-with-sql\dbKiller\obj\Debug\dbKiller.Form4.resources
+C:\Users\vav\Desktop\bdKilllll\kursach\CSharp-forms-with-sql\dbKiller\obj\Debug\dbKiller.Properties.Resources.resources
+C:\Users\vav\Desktop\bdKilllll\kursach\CSharp-forms-with-sql\dbKiller\obj\Debug\dbKiller.csproj.GenerateResource.Cache
+C:\Users\vav\Desktop\bdKilllll\kursach\CSharp-forms-with-sql\dbKiller\bin\Debug\dbKiller.exe
+C:\Users\vav\Desktop\bdKilllll\kursach\CSharp-forms-with-sql\dbKiller\bin\Debug\dbKiller.pdb

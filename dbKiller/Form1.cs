@@ -26,8 +26,6 @@ namespace dbKiller
                 return;
 
             AuthenticateAndGrantAccess();
-
-
         }
 
         private void AuthenticateAndGrantAccess()
