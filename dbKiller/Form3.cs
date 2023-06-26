@@ -19,9 +19,11 @@ namespace dbKiller
         BindingSource bindingSource;
         public Form3(Database database, Form1 form1)
         {
-            InitializeComponent();
+            
             this.database = database;
             this.form1 = form1;
+            InitializeComponent();
+            this.Show();
             LoadData();
         }
 

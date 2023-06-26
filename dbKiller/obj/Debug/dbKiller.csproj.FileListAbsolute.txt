@@ -24,3 +24,17 @@ C:\Users\vav\Desktop\bdKilllll\kursach\CSharp-forms-with-sql\dbKiller\obj\Debug\
 C:\Users\vav\Desktop\bdKilllll\kursach\CSharp-forms-with-sql\dbKiller\obj\Debug\dbKiller.csproj.GenerateResource.Cache
 C:\Users\vav\Desktop\bdKilllll\kursach\CSharp-forms-with-sql\dbKiller\bin\Debug\dbKiller.exe
 C:\Users\vav\Desktop\bdKilllll\kursach\CSharp-forms-with-sql\dbKiller\bin\Debug\dbKiller.pdb
+D:\Visual Studio 22 projects\kursovichno\dbKiller\bin\Debug\dbKiller.exe.config
+D:\Visual Studio 22 projects\kursovichno\dbKiller\bin\Debug\dbKiller.exe
+D:\Visual Studio 22 projects\kursovichno\dbKiller\bin\Debug\dbKiller.pdb
+D:\Visual Studio 22 projects\kursovichno\dbKiller\obj\Debug\dbKiller.csproj.AssemblyReference.cache
+D:\Visual Studio 22 projects\kursovichno\dbKiller\obj\Debug\dbKiller.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio 22 projects\kursovichno\dbKiller\obj\Debug\dbKiller.Form1.resources
+D:\Visual Studio 22 projects\kursovichno\dbKiller\obj\Debug\dbKiller.Form2.resources
+D:\Visual Studio 22 projects\kursovichno\dbKiller\obj\Debug\dbKiller.Form3.resources
+D:\Visual Studio 22 projects\kursovichno\dbKiller\obj\Debug\dbKiller.Form4.resources
+D:\Visual Studio 22 projects\kursovichno\dbKiller\obj\Debug\dbKiller.Properties.Resources.resources
+D:\Visual Studio 22 projects\kursovichno\dbKiller\obj\Debug\dbKiller.csproj.GenerateResource.cache
+D:\Visual Studio 22 projects\kursovichno\dbKiller\obj\Debug\dbKiller.csproj.CoreCompileInputs.cache
+D:\Visual Studio 22 projects\kursovichno\dbKiller\obj\Debug\dbKiller.exe
+D:\Visual Studio 22 projects\kursovichno\dbKiller\obj\Debug\dbKiller.pdb

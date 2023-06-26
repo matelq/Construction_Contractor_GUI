@@ -28,6 +28,7 @@ namespace dbKiller
             this.database = database;
             this.form1 = form1;
             InitializeComponent();
+            this.Show();
             LoadData();
         }
 
@@ -352,6 +353,11 @@ namespace dbKiller
             if (!radioButton4.Checked)
                 return;
             comboBox4.Enabled = false;
+        }
+
+        private void tabPage1_Click(object sender, EventArgs e)
+        {
+
         }
 
         private void radioButton3_CheckedChanged(object sender, EventArgs e)

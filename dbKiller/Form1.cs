@@ -15,9 +15,11 @@ namespace dbKiller
     public partial class Form1 : Form
     {
         Database database = new Database();
+
         public Form1()
         {
             InitializeComponent();
+            textBox2.UseSystemPasswordChar = true;
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -60,7 +62,6 @@ namespace dbKiller
                 {
                     login = dataTable.Rows[0]["externalLogin"].ToString();
                     password = dataTable.Rows[0]["externalPassword"].ToString();
-                    MessageBox.Show(login + "\n" + password);
                 }
 
             }
@@ -86,17 +87,14 @@ namespace dbKiller
             {
                 case "CEO":
                     Form4 form4 = new Form4(database, this);
-                    form4.Show();
                     this.Hide();
                     break;
                 case "manager":
                     Form2 form2 = new Form2(database, this);
-                    form2.Show();
                     this.Hide();
                     break;
                 case "foreman":
                     Form3 form3 = new Form3(database, this);
-                    form3.Show();
                     this.Hide();
                     break;
                 case "fired":
